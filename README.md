@@ -1,12 +1,7 @@
 # Coveralls Parallel Jobs Demo [![Coverage Status](https://coveralls.io/repos/github/coverallsapp/coveralls-node-demo/badge.svg?branch=master)](https://coveralls.io/github/coverallsapp/coveralls-node-demo?branch=master)
 
-test
-test2
-еуые3
-фыва
-qq23rf
-asdf
-123
+test asdf
+
 
 This repo shows CI configuration examples for parallel build coverage merging when using [node-coveralls](https://github.com/nickmerwin/node-coveralls).
 
