@@ -17,4 +17,3 @@ jobs:
       with:
         carryforward: "linux-1,linux-2"
         parallel-finished: true
-        reporter-version: 'v0.6.4'
