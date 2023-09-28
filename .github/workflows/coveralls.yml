@@ -13,7 +13,7 @@ jobs:
     if: ${{ always() }}
     needs: [test-linux]
     steps:
-    - uses: coverallsapp/github-action@v2
+    - uses: coverallsapp/github-action@SR-69/ability-to-select-version-of-coverage-reporter-public-issue-170
       with:
         carryforward: "linux-1,linux-2"
         parallel-finished: true
